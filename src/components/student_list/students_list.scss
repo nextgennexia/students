@@ -1,0 +1,21 @@
+.students-list {
+  margin: 10px 0;
+
+  .student {
+    margin: 5px 0;
+  }
+  .app-button {
+    margin: 0 10px;
+  }
+
+  .student-data,
+  .button-wrap {
+    display: inline-block;
+  }
+
+  .student-full-name,
+  .student-birthday,
+  .pseudo-link {
+    display: inline-block; margin: 0 10px 0 0;
+  }
+}
